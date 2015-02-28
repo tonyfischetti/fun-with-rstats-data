@@ -1,0 +1,28 @@
+
+
+1665 #python
+ 423 #d3js (plus 72 for "d3") (plus 2 for #js)
+ 343 #sas
+ 312 #julialang (plus 43 for julia)
+ 240 #fsharp
+ 140 #spss  (plus 7 for #ibmspss)
+ 102 #stata
+  75 #matlab
+  55 #sql
+  38 #java
+  35 #ruby
+  27 #stan
+  21 #scala
+  15 #perl
+  14 #clojure
+  11 #cplusplus  (plus 6 for #cpp) (plus 4 for #cpp11)
+   8 #haskell
+   7 #lisp
+   6 #mondrian
+   6 #groovy
+   5 #c
+   4 #fortran
+   3 #lua
+   3 #csharp
+   2 #splus (plus 2 for #s)
+   2 #rustlang

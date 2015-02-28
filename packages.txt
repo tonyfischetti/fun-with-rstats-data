@@ -1,0 +1,50 @@
+
+1360 #ggplot2  (plus 298 for ggplot)  (plus for 6 #gglot2) (plus 4 for #ggpot)
+ 783 #dplyr
+ 663 #shiny
+ 557 #rcpp (plus 22 for rcpp11)
+ 251 #knitr
+ 156 #magrittr
+ 105 #lme4
+  93 #ggvis   (plus 11 for #ggivs)
+  65 #datatable
+  46 #rneo4j
+  38 #plyr   (plus 9 for #ddply)
+  32 #igraph
+  31 #tidyr
+  29 #rvest
+  29 #rmongodb
+  21 #randomforest   (ambigious)
+  17 #testthat
+  17 #rlist
+  17 #hadleyverse (not technically a package)
+  17 #ggmap
+  15 #parallel   (ambiguous)
+  11 #wordcloud   (ambiguous)
+  11 #datasets   (ambiguous)
+  10 #rcmdr
+  10 #packrat
+  10 #mturkr
+   8 #reshape
+   8 #lattice
+   7 #sparkr
+   7 #roxygen  (plus 6 for #roxygen2)
+   7 #roracle
+   8 #lubridate
+   7 #cartogram
+   7 #caretensemble
+   7 #caret
+   5 #vegan (plus 5 for #vegan_2)
+   5 #tm
+   5 #rattle
+   5 #lazyr
+   5 #glm
+   4 #sweave
+   4 #bigquery
+   3 #rstan
+   3 #devtools
+   3 #deployr
+   3 #dataframe
+   2 #xyplot
+   2 #rpart
+   2 #rggobi
